@@ -1,2 +1,2 @@
-# will-you-be-my-valentine
+# final_project
 An important R script
